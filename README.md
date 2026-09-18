@@ -1,7 +1,6 @@
 # CP5 - Compliance, QA - Automação de Testes Funcionais (Login)
 
 **Aluno:** Raphael Gomes Mancera (RM562279)
-**Disciplina:** Java Advanced (2º semestre)
 
 Automação, em Java + JUnit 5 + Selenium WebDriver, dos cenários de teste
 funcional de Login definidos no plano de testes do CP1/CP4 (Atividade 2 —
